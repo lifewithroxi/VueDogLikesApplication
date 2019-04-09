@@ -1,2 +1,0 @@
-# VueDogLikesApplication
-Created with CodeSandbox
